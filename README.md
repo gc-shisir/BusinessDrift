@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# BusinessDrift
+A simple web application created with react js.
 
 ## Available Scripts
 
